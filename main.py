@@ -46,7 +46,7 @@ def play_game():
 
         print(f"{result}. Try again!")
 
-        if not won:
+    if not won:
 
             print(f"Sorry, you ran out of attempts! The secret number is {senu}.")
 
